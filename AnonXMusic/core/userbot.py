@@ -52,7 +52,8 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("nakama_asl")
-                await self.one.join_chat("faiirymutualan")
+                await self.one.join_chat("Faiirymutualan")
+                await self.one.join_chat("group_support_luffy")
             except:
                 pass
             assistants.append(1)
@@ -73,7 +74,8 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.one.join_chat("nakama_asl")
-                await self.one.join_chat("faiirymutualan")
+                await self.one.join_chat("Faiirymutualan")
+                await self.one.join_chat("group_support_luffy")
             except:
                 pass
             assistants.append(2)
