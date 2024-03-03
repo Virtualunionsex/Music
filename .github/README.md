@@ -22,7 +22,7 @@ curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-ge
 
 ### GIT CLONE REPO ⤵️
 ```
-git clone https://github.com/virtualunionsex/Musik && cd Musik
+git clone https://github.com/virtualunionsex/Music && cd Music
 ```
 
 ### INSTALL REQUIREMENTS ⤵️
